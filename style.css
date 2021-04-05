@@ -9,9 +9,6 @@ body{
     font-size: 23px;
     margin: 0px;
     box-shadow: 5px 5px 5px gray;
-    left:0 !important;
-    position: fixed;
-    top: 0 !important;
 }
 
 .div_1{
@@ -31,6 +28,7 @@ p{
     font-size: 17px;
     box-shadow: 5px 5px 5px gray;
     border-radius: 15px;
+    color: black;
 }
 
 #footer{
@@ -48,5 +46,5 @@ canvas{
     border-radius: 15px;
     border: black 3px solid;
     box-shadow: 5px 5px 5px gray;
-    margin-top: 15px;
+    margin-top: 75px;
 }
